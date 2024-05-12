@@ -6,6 +6,7 @@ This project was done in a data engineering bootcamp at SDA &amp; WeCloudData
 ## Project Description
 
 This project involves reading data from a relational database (MySQL), saving the result to an S3 bucket, and finally posting the result to an API endpoint. The general architecture of the project is as follows:
+![image](https://github.com/ghada6al/lambda-project/assets/74125257/e1d71711-6f7b-4a3b-9413-bdc55637ab63)
 
 
 ## Detail Steps
@@ -39,5 +40,6 @@ This project involves reading data from a relational database (MySQL), saving th
    - Use a Python project structure.
    - Use a Git repository to save your code.
 
+![image](https://github.com/ghada6al/lambda-project/assets/74125257/af0ae2e5-ec6e-4acb-9196-e8b96b75f561)
 
 
